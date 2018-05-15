@@ -31,6 +31,7 @@ aside {
     float: right;
     width: 45%;
     height: 150px;
+    background-color: black;
     border: 1px solid darkgray;
     border-radius: 25px;
     margin: 10px;
