@@ -13,3 +13,15 @@ header {
     font-size: 15px;
 
 }
+
+header h1 {
+    color: white;
+}
+
+aside {
+    float: left;
+    width: 25%;
+    height: 150px;
+    border: 1px solid darkgray;
+    border-radius: 25px;
+}
