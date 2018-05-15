@@ -5,11 +5,10 @@ body {
 
 header {
     width: 100%;
-    height: 50px;
+    height: 120px;
     padding: 10px;
     background-color: lightgrey;
-    border-bottom: 1px solid darkgray;
-    color: white;
+    color: black;
     font-family: sanserif;
     font-size: 15px;
 
@@ -56,4 +55,40 @@ footer {
     text-align: center;
     color: white;
     clear: both;
+}
+
+.bluebar {
+    width: 40%;
+    height: 8px;
+    background-color: darkorchid;
+    float: left;
+}
+
+.redbar {
+    width: 35%;
+    height: 8px;
+    background-color: darkorchid;
+    float: left;
+}
+
+.greenbar {
+    width: 10%;
+    height: 8px;
+    background-color: forestgreen;
+    float: left;
+}
+
+.yellowbar {
+    width: 15%;
+    height: 8px;
+    background-color: mediumslateblue;
+    float: left;
+}
+
+#profile {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 1px;
 }
